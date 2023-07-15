@@ -2,7 +2,7 @@
   "name": "Rebirth",
   "version": "1.0.0",
   "version": "1.0.0",
-  "description": "Reburtg is a fortnite backend that has many features.",
+  "description": "Rebirth is a fortnite backend that has many features.",
   "main": "index.js",
   "type": "module",
   "@@" -13,
